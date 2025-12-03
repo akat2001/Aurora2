@@ -26,10 +26,3 @@ O objetivo deste fork é **explorar, testar e aprimorar funcionalidades**, mante
 
 ---
 
-## Instalação
-
-1. Clone o repositório:
-
-```bash
-git clone https://github.com/akat2001/Aurora2.git
-cd Aurora2
